@@ -1,5 +1,7 @@
 [![Ali's GitHub Banner](./assets/banner.png)](https://www.linkedin.com/in/jafarabadi/)
-#### My [GitHub Gists](https://gist.github.com/jafarabadi)
+## Related:
+-  [GitHub Gists](https://gist.github.com/jafarabadi)
+-  [LinkedIn](https://www.linkedin.com/in/jafarabadi)
 <!-- - 👋 Hi, I’m @jafarabadi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
