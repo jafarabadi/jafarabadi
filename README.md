@@ -1,4 +1,4 @@
-[![Ali's GitHub Banner](./assets/banner.png)](https://www.linkedin.com/in/jafarabadi/)
+[![Ali's GitHub Banner](./assets/banner.png)](https://j8i.link)
 ## Related:
 -  [GitHub Page](https://j8i.link "j8i.link")
 -  [GitHub Gists](https://gist.github.com/jafarabadi "jafarabadi")
